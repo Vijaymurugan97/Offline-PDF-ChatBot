@@ -1,0 +1,28 @@
+Sample Document for PDF QA Testing
+
+This is a test document to demonstrate the PDF QA chatbot capabilities.
+
+Key Topics:
+1. Artificial Intelligence
+   - Machine Learning basics
+   - Natural Language Processing
+   - Neural Networks
+
+2. Document Processing
+   - Text extraction
+   - Document chunking
+   - Vector embeddings
+
+3. Question Answering Systems
+   - Information retrieval
+   - Context understanding
+   - Answer generation
+
+The chatbot should be able to analyze this content and answer questions about any of these topics.
+
+Example Questions:
+- What are the main topics covered in this document?
+- How does document processing work?
+- What is the role of vector embeddings?
+
+Feel free to ask questions about any of these subjects to test the chatbot's capabilities.
